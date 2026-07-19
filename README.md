@@ -25,4 +25,4 @@ Each project has its own README with setup instructions. To run any project:
 
 ## Contact
 
-[Email](mailto:alvincarroll3@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abccarroll/)
+[Email](mailto:alvincarroll3@gmail.com) - alvincarroll3@gmail.com | [LinkedIn](https://www.linkedin.com/in/abccarroll/)
